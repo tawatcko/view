@@ -1,0 +1,277 @@
+#EXTINF:-1,AXN
+http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
+#http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+#https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1,Blue Ant Entertainment
+http://160.119.77.116:8081/iptv/hd-rtlcbs.stream/playlist.m3u8
+#https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Blue Ant Extreme
+#https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1,CTB
+#http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
+#EXTINF:-1,CCM
+http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
+#https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
+#https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
+#EXTINF:-1,Channel 8
+#http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+#http://tv10.chang55.com/ch13-foxac/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#https://livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-foxaction_720/playlist.m3u8
+#EXTINF:-1,FOX family MOVIES
+http://160.119.77.116:8081/iptv/hd-foxfamily.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-foxfamily_720/playlist.m3u8
+#EXTINF:-1,FOX MOVIES
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/hd-foxpremium.stream/chunks.m3u8
+#https://livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-foxpremium_720/playlist.m3u8
+#EXTINF:-1,FOX ไทย
+#https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-fox_720/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:-1,FOXCRIME
+http://160.119.77.116:8081/iptv/hd-foxcrimeeng.stream/playlist.m3u8
+#https://livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,FOXlife
+http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FlixHd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,FX
+http://160.119.77.116:8081/iptv/hd-fxeng.stream/playlist.m3u8
+#EXTINF:-1,GEM
+http://203.150.107.30:8081/tested2iptv/core207/playlist.m3u8
+#EXTINF:-1,HBO
+#http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
+#http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://160.119.77.116:8081/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:-1,RED BY HBO
+#http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#http://202.183.247.206:9981/stream/channelid/1404760996?ticket=AC999B2B4BD785D76148BB8C15F8521B9F73037C&profile=pass
+#https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
+#EXTINF:-1,HBO HITS
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#http://77.83.117.60:8888/02_HBOHit_720p/chunklist.m3u8
+#https://iamntp.com/hbo/hits_onweb.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
+#https://live.tubtoeball.net/tubtoeball_app/hbo-hits/playlist.m3u8
+#https://tv4.chang55.com:446/live2/tv4ch42.stream/playlist.m3u8
+#https://live.we-play.tv/live/hbo-hits/chunks.m3u8?nimblesessionid=38843415&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjIxOjAzIEFNJmhhc2hfdmFsdWU9cUZQOHBHYjJRcEg2Qnk2ZFQ1dmxvUT09JnZhbGlkbWludXRlcz0yMA==
+#https://live.we-play.tv/android/hbo-hits/playlist.m3u8
+https://livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
+#https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1,HBO family
+#https://live.we-play.tv/live/hbo-fam/chunks.m3u8?nimblesessionid=38843628&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIwIDEwOjIyOjU5IEFNJmhhc2hfdmFsdWU9TUNrc0dzMEwwRGhQaCtxNUFFUUtPZz09JnZhbGlkbWludXRlcz0yMA==8
+#http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
+#https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1,JKN
+#https://edge3a.v2h-cdn.com/INFO_T4/JKN.stream_720p/playlist.m3u8
+https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/chunklist_w1387599797.m3u8
+#http://dootvthai-hd.com/cmd/api/true/Jknchannel/playlist.m3u8
+#http://103.120.113.90:1935/psilive3a/JKN.stream_360p/playlist.m3u8
+#EXTINF:-1,Mangkorn
+https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/Mangorn/playlist.m3u8
+#http://103.120.113.90:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
+#EXTINF:-1,M Channel
+#http://206.189.150.220:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+#http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+#https://cdnlive.goprimetime.info/feed/chmchannel/index.m3u8
+http://27.254.142.207:8080/live/web.m3u8
+#http://27.254.130.61/live01/ch19.m3u8?p=st
+#http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+#EXTINF:-1,Mix Major
+#https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8
+#EXTINF:-1,Monoplus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
+#EXTINF:-1,Paramount CHANNEL
+#http://cdn.tv.streaming.moviektu.com/tv-streaming/ParamountHD.m3u8
+#http://dootvthai-hd.com/cmd/api/true/PARAMOUNT-HD/playlist.m3u8
+http://203.154.177.124:8899/live/ch3/playlist.m3u8
+#http://206.189.150.220:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
+#http://cdn103.stm.trueid.net:80/live1/222_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=Wjhcoc97ZymamQX/J0VceaKoQx5vNma/pdK1O1JlcfdDAZGPqFz65rmLXEUBjGTriQXDmJT3639/MDkH3IGoK4FABB3TKDRE/pCrLvpGe5U6OmA8FhpBKPQv2T98UuZ8LPM
+#https://live.we-play.tv/android/paramount/playlist.m3u8
+#http://139.99.17.52:8081/liveorigin/hd-paramount_720/playlist.m3u8
+#EXTINF:-1,Skypremiere
+http://160.119.77.116:8081/iptv/uk-skypremiere.stream/playlist.m3u8
+#EXTINF:-1,Star Chinese Moviess
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+#EXTINF:-1,SERiES+HD
+http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
+#EXTINF:-1,SERIES CHANNEL
+http://203.154.243.31:8081/live/series/index.m3u8
+#EXTINF:-1,Thrill
+#http://203.154.177.124:8899/live/ch21/playlist.m3u8
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#http://206.189.150.220:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+#http://27.254.149.109:8081/tumlive/Thrill/playlist.m3u8
+#EXTINF:-1,Truefilm HD
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-tfilm_720/playlist.m3u8
+#EXTINF:-1,Truefilm HD 2
+#http://54.37.82.205:8081/liveorigin/hd-tfilm2_720/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-tfilm2.stream/playlist.m3u8
+#EXTINF:-1,Truefilm ASIA
+#http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-filmasia.stream/playlist.m3u8
+#EXTINF:-1,True Asian Series HD
+http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
+#http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-asian_720/playlist.m3u8
+#EXTINF:-1,True Movie Hit
+#http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
+#http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-moviehits.stream/playlist.m3u8
+#EXTINF:-1,True Series
+https://live.we-play.tv/android/true-series/playlist.m3u8
+#EXTINF:-1,True Thai Film
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/sd-thaifilm.stream/chunks.m3u8
+#EXTINF:-1,True X-zyte
+http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-xzyte_720/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
+#EXTINF:-1,TVB ไทย
+#https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1540067969.m3u8
+#https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1,TV CABLE 1
+http://203.154.243.31:8081/live/izaahd/index.m3u8
+#EXTINF:-1,TV CABLE 2
+http://203.154.243.31:8081/live/ping/index.m3u8
+#EXTINF:-1,TV CABLE 3
+http://203.154.243.31:8081/live/h-channel/index.m3u8
+#EXTINF:-1,TV CABLE 4
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,TV CABLE 5
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w439724723.m3u8
+#EXTINF:-1,TV CABLE 6
+http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master02.m3u8
+#EXTINF:-1,tvN
+http://cdn121.stm.trueid.net:80/live3/096_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=npMxHY2Z89nwqa3nAPeY6avhmvoOP85FQA2TphbWCXZ8dsqi5WpJcu+KnrFCK//R7UccrKHF2xwIbNQ7vN0TC1k2yJSF0VFyp+Cau5Ufx4k6Oo+p3cZojzR5OwehJ0PWZkc
+http://dootvthai-hd.com/cmd/api/true/TVN/playlist.m3u8
+#EXTINF:-1,live SKY1
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
+#EXTINF:-1,live SKY2
+http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/chunks.m3u8
+#EXTINF:-1,live SKY3
+http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
+#EXTINF:-1,live SKY4
+http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
+#EXTINF:-1,Universal TH
+#https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:-1,Upmovie
+http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
+#EXTINF:-1,WARNER TV
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-warnertv_720/playlist.m3u8
+#http://203.154.177.124:8899/live/ch12/playlist.m3u8
+#http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
+#https://livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,KBS WORLD HD
+#http://dootvthai-hd.com/cmd/api/true/KBS-World-HD/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
+#EXTINF:-1,HISTORY TH
+http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
+#http://196.52.105.238:9997/History/tracks-v1a1/mono.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-history_720/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8
+#http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
+#EXTINF:-1,HISTORY EH
+http://160.119.77.116:8081/iptv/hd-historyeng.stream/playlist.m3u8
+#EXTINF:-1,DISCOVERY HISTORY
+http://160.119.77.116:8081/iptv/uk-discoveryhistory.stream/playlist.m3u8
+#EXTINF:-1,H2
+#http://196.52.105.238:9997/H2/tracks-v1a1/mono.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-history2_720/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/chunks.m3u8
+#http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
+#EXTINF:-1,H2 UK
+http://160.119.77.116:8081/iptv/uk-history2.stream/playlist.m3u8
+#EXTINF:-1,Discovery TH
+#http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
+#https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+http://160.119.77.116:8081/iptv/uk-discovery.stream/playlist.m3u8
+#EXTINF:-1,DiscoveryAsia
+http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+#http://27.254.149.109:8081/live/discovery.stream/chunks.m3u8
+#EXTINF:-1,TRUE EXPLORE SCI
+#https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-expsci.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-expsci_480/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE LIFE
+http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-explife_480/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE WILD
+#https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-expwild_480/playlist.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC TH
+http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-natgeo_720/playlist.m3u8
+#EXTINF:-1,NAT GEO PEOPLE
+http://160.119.77.116:8081/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-natgeopeopleeng_720/playlist.m3u8
+#http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/18570
+#EXTINF:-1,NAT GEO WILD
+http://160.119.77.116:8081/iptv/hd-natgeowildeng.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
+#http://host4.dynns.com/wevelwe/90d14bbf53d14b018d4439ffba6be283.m3u8
+#https://live.we-play.tv/android/natwild/playlist.m3u8
+#http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1,ANIMAL PLANET
+http://160.119.77.116:8081/iptv/sd-animalplanet.stream/playlist.m3u8
+#https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,SAMRUJLOK
+http://103.253.72.107:9997/samrojlok/tracks-v1a1/mono.m3u8
+#http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8
+#https://live.we-play.tv/android/samruajlok/playlist.m3u8
+#http://live.9koh.com:8000/live/a-play/stream/36.m3u8
+#EXTINF:-1,BBC EARTH
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+#https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
+#https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:-1,True Pookpanya
+#http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-tppy.stream/playlist.m3u8
+#EXTINF:-1,World Animal
+http://203.154.243.32:8088/live/wanimal/index.m3u8
+#EXTINF:-1,BBC Lifestyle
+#https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#http://27.254.149.109:8081/tumlive/BBCLifestyle/playlist.m3u8
+http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF:-1,Outdoor Channel
+#http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+#http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/media_w981409619_b1105254_3604.ts?fluxustv.m3u8
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,PSI
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
