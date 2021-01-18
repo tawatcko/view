@@ -21,8 +21,7 @@ http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
 #http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1,Cinemax
-http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #EXTINF:-1,FOX ACTION MOVIES
 #http://tv10.chang55.com/ch13-foxac/playlist.m3u8
